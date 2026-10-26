@@ -1,0 +1,6 @@
+{
+  "name": "Wahaj Cafe — The Pizza Lab",
+  "description": "Cinematic 3D restaurant experience, authentic digital menu, interactive Pizza Lab 3D visualizer, AI food visual studio, and direct WhatsApp ordering for Wahaj Cafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
